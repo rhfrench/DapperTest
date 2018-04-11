@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperTests", "DapperTests.csproj", "{02DD75B8-0D05-469F-A09B-01F70BFB242C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02DD75B8-0D05-469F-A09B-01F70BFB242C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DD75B8-0D05-469F-A09B-01F70BFB242C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DD75B8-0D05-469F-A09B-01F70BFB242C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DD75B8-0D05-469F-A09B-01F70BFB242C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
